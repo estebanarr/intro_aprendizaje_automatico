@@ -5,6 +5,9 @@ Este repositorio contiene las resoluciones a las consignas del entregabla de la 
 Integrantes del grupo:
 
 Mariano LLanos
+
 María Laura Bernaschini
+
 Esteban Arrúa
+
 Florencia Cámara
